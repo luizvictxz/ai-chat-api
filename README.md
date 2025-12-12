@@ -2,7 +2,6 @@
 
 ### FastAPI • Strands Agents • Ollama
 
-Este projeto foi desenvolvido para uma avaliação técnica.
 
 ---
 
